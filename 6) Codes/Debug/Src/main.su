@@ -1,0 +1,14 @@
+main.c:95:3:__io_putchar	16	static
+main.c:112:6:set_voltage_on_dax_X	40	static
+main.c:121:6:set_voltage_on_dax_Y	40	static
+main.c:138:10:get_adc_raw	24	static
+main.c:268:5:main	104	static
+main.c:496:6:SystemClock_Config	120	static
+main.c:556:7:server_recv	584	static
+main.c:848:7:server_accept	24	static
+main.c:861:6:server_init	24	static
+main.c:888:6:server_conn_err	24	static
+main.c:897:6:get_key_state	8	static
+main.c:945:9:Hi_byte	24	static
+main.c:955:10:Lo_byte	24	static
+main.c:972:6:Error_Handler	4	static
