@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=Analogue.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analogue.SchDoc|FileName=Communication Ethernet DP.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analogue.SchDoc|FileName=Communication USB - FT232.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analogue.SchDoc|FileName=MicroControllerSTM32f107VCT.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Analogue.SchDoc|FileName=Power Management.SchDoc|SheetNumber= 
